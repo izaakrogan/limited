@@ -14,7 +14,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <h1 style={{marginBottom: 10}}>One Of A Kind Rings</h1>
+        <h1 style={{marginBottom: 10}}>Crafted one of a kind pieces</h1>
         <p>Website coming soon</p>
       </div>
 
