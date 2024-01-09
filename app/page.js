@@ -5,17 +5,14 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
+        <h3>
          Limited Resources
-        </p>
-        <div>
-
-        </div>
+        </h3>
       </div>
 
       <div className={styles.center}>
-        <h1 style={{marginBottom: 10}}>Crafted one of a kind pieces</h1>
-        <p>Website coming soon</p>
+        <h1 style={{marginBottom: 10}}>Crafted One-of-a-Kind Rings</h1>
+        <a href="mailto:izaakrogan@gmail.com"><p>izaakrogan@gmail.com</p></a>
       </div>
 
       <div className={styles.grid}>
