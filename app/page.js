@@ -14,7 +14,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <h1>One Of A Kind Pieces</h1>
+        <h1>One Of A Kind</h1>
       </div>
 
       <div className={styles.grid}>
