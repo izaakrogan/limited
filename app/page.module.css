@@ -5,6 +5,8 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .description {
@@ -52,6 +54,8 @@
   background: rgba(var(--card-rgb), 0);
   border: 1px solid rgba(var(--card-border-rgb), 0);
   transition: background 200ms, border 200ms;
+  position: relative;
+  height: 300px;
 }
 
 .card span {
